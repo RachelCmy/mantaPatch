@@ -1,0 +1,15 @@
+build
+*.sublime-project
+*.sublime-workspace
+tools/tests/*.uni
+tools/tests/*.pyc
+tools/tests/*.bin
+tensorflow/data
+tensorflow/example3_smoke_patch/_log_
+tensorflow/example3_smoke_patch/__pycache__
+dependencies
+tensorflow/example3_smoke_patch/Data_*
+tensorflow/example3_smoke_patch/mantaPatchData/Data_*
+
+
+doc
